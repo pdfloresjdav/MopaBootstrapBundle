@@ -1,19 +1,9 @@
 {
-    "name": "mopa/bootstrap-bundle",
+    "name": "pdfloresjdav/bootstrap-bundle",
     "type": "symfony-bundle",
     "description": "Easy integration of twitters bootstrap into symfony2",
     "keywords": ["form", "extra form", "bootstrap", "bootstrap form", "template"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Philipp A. Mohrenweiser",
-            "email": "phiamo@googlemail.com"
-        },
-        {
-            "name": "Community contributions",
-            "homepage": "https://github.com/phiamo/MopaBootstrapBundle/contributors"
-        }
-    ],
     "autoload": {
         "psr-0": {
             "Mopa\\Bundle\\BootstrapBundle\\": ""
