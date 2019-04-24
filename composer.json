@@ -27,7 +27,7 @@
         "symfony/twig-bridge": "<2.3"
     },
     "suggest":  {
-        "twbs/bootstrap": ">2.0,<4.0-dev",
+        "pdfloresjdav/bootstrap": "dev-master",
         "knplabs/knp-paginator-bundle": "~2.3",
         "knplabs/knp-menu-bundle": "~2.0@dev",
         "mopa/bootstrap-sandbox-bundle": "~2.3",
